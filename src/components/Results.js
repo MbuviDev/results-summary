@@ -8,3 +8,4 @@ function Results () {
         <p> You scored higher than 65% of the people who took this challenge</p>
     </div>
 }
+export default Results;

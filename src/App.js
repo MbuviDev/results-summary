@@ -1,10 +1,13 @@
 import './App.css';
 import Summary from './components/Summary';
+import Results from './components/Results';
 
 function App() {
   return (
-    <div >
+    <div >\
+      <Results />
       <Summary />
+
     </div>
   );
 }
