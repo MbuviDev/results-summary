@@ -4,10 +4,9 @@ import Results from './components/Results';
 
 function App() {
   return (
-    <div >\
-      <Results />
+    <div className="grid grid-cols-2 gap-14">
+       <Results />
       <Summary />
-
     </div>
   );
 }
