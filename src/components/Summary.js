@@ -12,7 +12,7 @@ function Summary () {
                 <li>Virtual   72/100</li>
         </div>
         <div>
-            <button> Continue </button>
+            <button className="bg-blue-200 underline "> Continue </button>
         </div>
         </div>
     )
