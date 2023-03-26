@@ -4,7 +4,7 @@ import Results from './components/Results';
 
 function App() {
   return (
-    <div className="grid grid-cols-2 gap-14 bg-slate-400 h-screen">
+    <div className="grid grid-cols-2 bg-amber-100 h-screen p-8 pb-96 pt-40 rounded-md ">
        <Results />
       <Summary />
     </div>
