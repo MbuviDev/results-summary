@@ -2,8 +2,8 @@ import React from "react";
 
 function Results () {
     return (
-    <div>
-        <h1 className="font-mono text-2xl  font-bold "> Your Result</h1>
+    <div class="bg-white">
+        <h1 className="font-mono text-2xl  font-bold  "> Your Result</h1>
         <h2>Great</h2>
         <p className="text-3xl font-bold">76 </p>
         <p>of 100</p>
